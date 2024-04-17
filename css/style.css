@@ -189,3 +189,7 @@ section.right iframe {
   border: 1px solid red;
   border-radius: 10px;
 }
+
+h1{
+  font-size: larger;
+}
